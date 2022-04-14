@@ -103,11 +103,11 @@ To complement the aforementioned metrics, we also present images achieved at eac
 
 | Ground Truth | Result from the unchanged model |
 |:-------------------------:|:-------------------------:|
-| ![](https://i.imgur.com/hdrx3ZX.jpg =384x) | ![](https://i.imgur.com/fgUQRL3.jpg =384x) |
+| ![](https://i.imgur.com/hdrx3ZX.jpg) | ![](https://i.imgur.com/fgUQRL3.jpg) |
 | **10% of the data used** | **40% of the data used** |
-|![](https://i.imgur.com/91ZpIpB.gif =384x) | ![](https://i.imgur.com/irupNce.gif =384x) |
+|![](https://i.imgur.com/91ZpIpB.gif) | ![](https://i.imgur.com/irupNce.gif) |
 | **70% of the data used** | **100% of the data used** |
-| ![](https://i.imgur.com/qloIwda.gif =384x) | ![](https://i.imgur.com/QoozixV.gif =384x) |
+| ![](https://i.imgur.com/qloIwda.gif) | ![](https://i.imgur.com/QoozixV.gif) |
 
 
 ## Final Remarks
