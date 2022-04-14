@@ -8,5 +8,8 @@ Additionally, we had to create 4 different directories in `train_test_ours\train
 - long_train_validation
 - short_train_validation
 
-These directories contained short-exposed images and long-exposed images from the original dataset. In the end, this is how we managed to train 4 different models on Google Cloud, by just modifying
-`data_fraction` variable in `train.py` (we set it to 0.4 by default).
+These directories contained short-exposed images and long-exposed images from the original dataset. In the end, this is how we managed to train 4 different models on Google Cloud, by just modifying `data_fraction` variable in `train.py` (we set it to 0.4 by default).
+
+Lastly, we also included the scripts that we used for labeling the images by the numbers of iterations (*"Training the model"* section of the blog post) and for creating the plots with the metrics:
+- `image_labeling.ipynb`
+- `plotting_notebook.ipynb`
