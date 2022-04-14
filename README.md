@@ -6,7 +6,7 @@ For this reproducibility project, our objective is to test the model proposed in
 2. [Main project goals](#main-project-goals)
 3. [Dark image datasets](#dark-image-datasets)
 4. [Training the model](#training-the-model)
-5. [Conclusions](#conclusions)
+5. [Final remarks](#final-remarks)
 
 ## Brief paper breakdown
 
